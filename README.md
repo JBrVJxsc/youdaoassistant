@@ -1,3 +1,3 @@
 youdaoassistant
 ===============
-Assistant for YouDao Dict (windows version).
+Assistant for YouDao Dict (Windows version).
